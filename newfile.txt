@@ -1,1 +1,1 @@
-This is the file for the activity.
+This is making a conflict in the file for the activity.
