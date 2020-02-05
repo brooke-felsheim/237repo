@@ -1,1 +1,3 @@
-This is making a conflict in the file for the activity.
+This is the file for the activity.
+Here is a change to the file.
+ 944a516506d21cf25d7bcdb15814b00c1622a2d9
